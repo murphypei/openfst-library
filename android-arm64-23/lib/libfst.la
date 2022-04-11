@@ -38,4 +38,4 @@ dlopen=''
 dlpreopen=''
 
 # Directory that this library needs to be installed in:
-libdir='/home/peichao.murphy/code/github/openfst/android-arm64-23/lib'
+libdir='/home/peichao.murphy/code/github/openfst-library/android-arm64-23/lib'

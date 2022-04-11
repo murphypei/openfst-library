@@ -7,7 +7,7 @@ version=1.6.5
 
 # Download openfst archive
 if [[ ! -f openfst-$version.tar.gz ]]; then
-    wget -T 10 -t 1 http://www.openfst.org/twiki/pub/FST/FstDownload/openfst-$version.tar.gz -O openfst-$version.tar.gz
+    wget -T 10 -t 1 http://www.openfst.org/twiki/pub/FST/FstDownload/openfst-$version.tar.gz -O openfst-$version.tar.gz --no-check-certificate
 fi
 tar -zxvf openfst-$version.tar.gz
 

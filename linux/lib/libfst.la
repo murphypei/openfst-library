@@ -38,4 +38,4 @@ dlopen=''
 dlpreopen=''
 
 # Directory that this library needs to be installed in:
-libdir='/home/peichao.murphy/code/github/openfst/linux/lib'
+libdir='/home/peichao.murphy/code/github/openfst-library/linux/lib'
